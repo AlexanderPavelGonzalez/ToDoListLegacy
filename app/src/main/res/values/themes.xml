@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- For legacy impl you much change the parent from android:Theme.Material.Light.NoActionBar
+    to Theme.AppCompat.Light.NoActionBar-->
+    <style name="Theme.ToDoList" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
